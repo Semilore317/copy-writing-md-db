@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "9159ca646b446faf",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aed6fc220dc1b7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca1a49ccd3595edb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16. HOW TO SCALE....md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35a4d4d484f1012f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. WTF IS COPY WRITING 🤷‍♂️.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b22fb0b361394a1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. HOW TO IMPLEMENT COPY WRITING.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f05b85fde9110a26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. TYPES OF COPY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee293fe4c48e3278",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. TEMPLATES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5ab86f7d4c5fb11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. PRACTICE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "535f4dc6d95090e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. TYPES OF PRACTICE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4767d9ca11a276ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14. Feminist dickhead client copy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d948bc89ff6fd23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "17. NETWORKING.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2598d864fb768329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "17. NETWORKING.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6081a6d7d91a4d4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "77cd458258cb3de7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "817020fd98ff4297",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cfc99aec1fad4704",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "6f1c46a93a343d93",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cc4a16b1e6f3615f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bef3115d9de43fe4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "17. NETWORKING.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7720edb1d20acaff",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "17. NETWORKING.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6a0d220f29f4dc6a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "17. NETWORKING.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "2598d864fb768329",
+  "lastOpenFiles": [
+    "17. NETWORKING.md",
+    "14. Feminist dickhead client copy.md",
+    "1. WTF IS COPY WRITING 🤷‍♂️.md",
+    "7. HOW TO BUILD INTRIGUE ✍️.md",
+    "15. GETTING MORE CLIENTS....md",
+    "6. TYPES OF PRACTICE.md",
+    "5. PRACTICE.md",
+    "4. TEMPLATES.md",
+    "3. TYPES OF COPY.md",
+    "2. HOW TO IMPLEMENT COPY WRITING.md",
+    "8. EVOKE EMOTION !.md",
+    "9. How to MONETIZE !.md",
+    "10. GETTING CLIENTS.md",
+    "11. SALES CALLS.md",
+    "12. RETAINING CLIENTS.md",
+    "13. THE LONG GAME....md",
+    "16. HOW TO SCALE....md"
+  ]
+}
